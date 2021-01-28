@@ -1,0 +1,25 @@
+{
+  "name": "可编辑表格",
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/pro-card": "1.10.0",
+    "@ant-design/pro-table": "2.27.2",
+    "antd": "4.11.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-terminal": "1.1.0",
+    "react-terminal-component": "1.4.1",
+    "strapi-sdk-js": "1.1.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
